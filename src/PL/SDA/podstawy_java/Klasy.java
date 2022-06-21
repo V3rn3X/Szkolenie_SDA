@@ -10,5 +10,7 @@ public class Klasy {
         int x = number.nextInt();
 
         System.out.println(x);
+
+
     }
 }
