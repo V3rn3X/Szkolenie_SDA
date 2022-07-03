@@ -1,4 +1,4 @@
-package PL.Poradnik.Klasy;
+package PL.Poradnik.Klasy.Przyklady;
 
 public class SamochodExample {
     public static void main(String[] args) {

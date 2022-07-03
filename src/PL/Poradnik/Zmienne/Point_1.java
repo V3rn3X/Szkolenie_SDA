@@ -3,24 +3,23 @@ package PL.Poradnik.Zmienne;
 import java.util.Scanner;
 
 public class Point_1 {
+
+
     public static void main(String[] args) {
 
-
-    int a = getInt(), b = getInt(), c = getInt(), d;
-    d = a + b + c;
-
-        System.out.println(d);
+        String test = "witaj";
+        char ostatniZnak = test.charAt(test.length() - 1);
+        System.out.println("Ostatni znak to: " + ostatniZnak);
 
 
     }
 
-    public static int getInt(){
-        return new Scanner(System.in).nextInt();
+/*
+    public static int policzKwadrat(int liczba) {
+        System.out.println("Liczymy kwadrat liczby " + liczba);
+        return liczba * liczba;
     }
 
-    public static String getString(){
-        return new Scanner(System.in).nextLine();
-    }
 
-
+ */
 }

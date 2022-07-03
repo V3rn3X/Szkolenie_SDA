@@ -1,4 +1,6 @@
-package PL.Poradnik.Klasy;
+package PL.Poradnik.Klasy.Przyklady;
+
+import PL.Poradnik.Klasy.Przyklady.Osoba;
 
 public class OsobaExample {
 

@@ -1,4 +1,4 @@
-package PL.SDA.java_zaawansowana;
+package PL.SDA.java_zaawansowana.JZ_28_06_2022;
 
 public class Lekcja_1 {
 

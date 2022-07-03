@@ -1,4 +1,4 @@
-package PL.SDA.java_zaawansowana.Zadanie_2;
+package PL.SDA.java_zaawansowana.Zadanie_UNO;
 
 public interface Shape {
 
